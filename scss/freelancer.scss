@@ -17,3 +17,20 @@
 @import "layout/portfolio.scss";
 @import "layout/contact.scss";
 @import "layout/footer.scss";
+
+//css 撰寫
+.portoliotitle{
+    color: #333333;
+    font-size: 22px;
+    text-align: center;
+    line-height:2em ;
+    letter-spacing: 1px;
+    margin-top: 5px;
+}
+.portolioword{
+    color: #949494;
+    font-size: 16px;
+    text-align: center;
+    line-height:1.9em ;
+    letter-spacing: 1px;
+}

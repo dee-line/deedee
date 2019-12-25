@@ -9740,9 +9740,7 @@ a.text-dark:hover, a.text-dark:focus {
   cursor: pointer;
   position: relative;
   display: block;
-  max-width: 25rem;
   margin-bottom: 30px;
-  border-radius: 0.5rem;
   overflow: hidden;
 }
 
@@ -9846,4 +9844,21 @@ form .row:first-child .floating-label-form-group {
 
 .copyright {
   background-color: #060407;
+}
+
+.portoliotitle {
+  color: #333333;
+  font-size: 22px;
+  text-align: center;
+  line-height: 2em;
+  letter-spacing: 1px;
+  margin-top: 5px;
+}
+
+.portolioword {
+  color: #949494;
+  font-size: 16px;
+  text-align: center;
+  line-height: 1.9em;
+  letter-spacing: 1px;
 }
